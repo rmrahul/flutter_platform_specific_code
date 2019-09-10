@@ -1,6 +1,7 @@
 # jira_connect_flutter
 
-Call Platform specific code from flutter app. To demonstrate that, I have added jira mobile connect for iOS
+Call Platform specific code from flutter app. 
+To demonstrate that, I have added jira mobile connect for iOS
 Some of SDK are available for iOS but not for flutter for that, We can use platform specific code.
 We will integrate SDK available for iOS and then we will call that implementation from flutter code.
 
